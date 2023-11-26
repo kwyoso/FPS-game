@@ -1,6 +1,6 @@
 import os
 import ursina
-im
+import random
 
 
 class Wall(ursina.Entity):
@@ -29,3 +29,4 @@ class Map:
             Wall(ursina.Vec3(2, y, 8))
             Wall(ursina.Vec3(0, y, 8))
             Wall(ursina.Vec3(-2, y, 8))
+            Wall(ursina.Vec3(random.randint(-10,10), y, random.randint(-10,10)))

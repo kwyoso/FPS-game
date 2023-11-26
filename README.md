@@ -11,4 +11,4 @@ The server does not have any dependencies. To run it, simple run the `server/mai
 ## Credits
 1. [Richard Whitelock](https://distantlantern.itch.io) - Amazing Looking Skybox
 2. [Jestan](https://jestan.itch.io) - Tile Textures
-hello
+...kys

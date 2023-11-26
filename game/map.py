@@ -29,4 +29,17 @@ class Map:
             Wall(ursina.Vec3(2, y, 8))
             Wall(ursina.Vec3(0, y, 8))
             Wall(ursina.Vec3(-2, y, 8))
-            Wall(ursina.Vec3(random.randint(-10,10), y, random.randint(-10,10)))
+            Wall(ursina.Vec3(-4, y, 0))
+            Wall(ursina.Vec3(-5, y, 0))
+            Wall(ursina.Vec3(-10, y, 10))
+            Wall(ursina.Vec3(-11, y, 10))
+            Wall(ursina.Vec3(-10, y, 9))
+            Wall(ursina.Vec3(-5, y, -10))
+
+
+            # Wall(ursina.Vec3(random.randint(-10,10), y, random.randint(-10,10)))
+            # Wall(ursina.Vec3(random.randint(-10, 10), y, random.randint(-10, 10)))
+            # Wall(ursina.Vec3(random.randint(-10, 10), y, random.randint(-10, 10)))
+            # Wall(ursina.Vec3(random.randint(-10, 10), y, random.randint(-10, 10)))
+            # Wall(ursina.Vec3(random.randint(-10, 10), y, random.randint(-10, 10)))
+
